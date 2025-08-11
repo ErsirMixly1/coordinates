@@ -10,3 +10,8 @@ try:
         time.sleep(0.1)
 except KeyboardInterrupt:
     print("\nDone.")
+
+```bash
+pip install pyautogui
+
+pip install time
