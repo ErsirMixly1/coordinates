@@ -11,7 +11,7 @@ try:
 except KeyboardInterrupt:
     print("\nDone.")
 
-```bash
-pip install pyautogui
 
-pip install time
+# pip install pyautogui pillow pygetwindow pymsgbox pyscreeze mouseinfo
+
+
